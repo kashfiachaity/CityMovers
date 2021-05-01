@@ -1,3 +1,12 @@
+To Run the system you have to follow the following instruments:
+
+1. Create an database named 'citymovers' in phpmyadmin.
+2. Run the sql file named 'FinalDatabase.sql'.
+
+This are the access information in different role.
+
+
+
 Admin: 01866351460
 Password: a12345
 
