@@ -128,7 +128,7 @@
             </ul>
 
             <div class="about_btn">
-              <a class="boxed-btn3-line" href="about.html">About Us</a>
+              <a class="boxed-btn3-line" href="about.php">About Us</a>
             </div>
           </div>
         </div>

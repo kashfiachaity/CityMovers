@@ -1,0 +1,17 @@
+Admin: 01866351460
+Password: a12345
+
+User: 01812282270
+Password: c12345
+
+Labor: 01598745632
+Password: l12345
+
+Vehicle: 01478963258
+Password: v12345
+
+AC Mechanic: 01478965415
+Password: ac12345
+
+Electrician: 01987458965
+Password: e12345
